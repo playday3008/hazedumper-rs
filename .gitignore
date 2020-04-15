@@ -16,3 +16,4 @@
 !.vscode/extensions.json
 .history
 *.log
+/.vs

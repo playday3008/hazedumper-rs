@@ -960,6 +960,16 @@
       "table": "DT_WeaponC4"
     },
     {
+      "name": "m_fRoundStartTime",
+      "prop": "m_fRoundStartTime",
+      "table": "DT_CSGameRulesProxy"
+    },
+    {
+      "name": "m_nSurvivalTeam",
+      "prop": "m_nSurvivalTeam",
+      "table": "DT_CSPlayer"
+    },
+    {
       "name": "m_bUseCustomBloomScale",
       "prop": "m_bUseCustomBloomScale",
       "table": "DT_EnvTonemapController"
